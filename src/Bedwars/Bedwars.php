@@ -1,3 +1,4 @@
-<?php
+GITHUB
 
-Namespace Bedwars;
+
+COMING SOON
